@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Ajay Singh Khalsa
-- A ML & Open Source enthusiast.
+- An ML & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
 
