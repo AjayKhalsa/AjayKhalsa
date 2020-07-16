@@ -12,13 +12,12 @@
 <a href="https://t.me/AjayKhalsa">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/ajay_khalsa/">
-  <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://www.hackerrank.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+<a href="https://www.kaggle.com/ajaykhalsa">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 <br />
 
 ### I am Ajay Singh Khalsa
