@@ -25,7 +25,8 @@
 
 
 ### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
+- An ML & DL Practitioner.
+- Open Source Contributor.
 - A Computer Engineering Undergraduate Student. 
 - I want to Apply Machine Learning and Deep Learning to solve real world problems. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
