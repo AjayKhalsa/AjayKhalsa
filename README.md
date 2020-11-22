@@ -30,4 +30,9 @@
 - A Computer Engineering Undergraduate Student. 
 - I want to Apply Machine Learning and Deep Learning to solve real world problems. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+<details>
+  <summary>:zap: GitHub Stats</summary>
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AjayKhalsa&show_icons=true&theme=radical" alt="AjayKhalsa" />
+</details>
 
