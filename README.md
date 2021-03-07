@@ -28,7 +28,7 @@
 - An ML & DL Practitioner.
 - Open Source Contributor.
 - A Computer Engineering Undergraduate Student. 
-- I want to Apply Machine Learning and Deep Learning to solve real world problems. 
+- Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 <details>
   <summary>:zap: GitHub Stats</summary>
