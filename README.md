@@ -25,3 +25,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AjayKhalsa&show_icons=true&theme=radical" alt="AjayKhalsa" />
 </details>
 
+![](https://hit.yhype.me/github/profile?user_id=39537259)
