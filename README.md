@@ -33,7 +33,7 @@
 </p>
 
 <hr>
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/AjayKhalsa/AjayKhalsa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
- -->
+
