@@ -9,9 +9,8 @@
 
 
 - An ML & DL Practitioner.
-- Open Source Contributor.
 - A Computer Engineering Undergraduate Student. 
-- Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
+- Working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - 📫 How to reach me **ajaykhalsa.ak@gmail.com**
 <!-- <details>
